@@ -1,2 +1,2 @@
-# Javascript_functions
+# Javascript_assignments
 JavaScript function assignment
